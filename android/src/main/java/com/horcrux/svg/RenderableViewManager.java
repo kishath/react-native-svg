@@ -94,8 +94,6 @@ class RenderableViewManager extends ViewGroupManager<VirtualView> {
                 TOP,
                 BOTTOM,
                 LEFT,
-                START,
-                END,
 
                 /* dimensions */
                 WIDTH,
@@ -113,8 +111,6 @@ class RenderableViewManager extends ViewGroupManager<VirtualView> {
                 MARGIN_RIGHT,
                 MARGIN_TOP,
                 MARGIN_BOTTOM,
-                MARGIN_START,
-                MARGIN_END,
 
                 /* paddings */
                 PADDING,
@@ -124,12 +120,8 @@ class RenderableViewManager extends ViewGroupManager<VirtualView> {
                 PADDING_RIGHT,
                 PADDING_TOP,
                 PADDING_BOTTOM,
-                PADDING_START,
-                PADDING_END,
 
                 BORDER_WIDTH,
-                BORDER_START_WIDTH,
-                BORDER_END_WIDTH,
                 BORDER_TOP_WIDTH,
                 BORDER_BOTTOM_WIDTH,
                 BORDER_LEFT_WIDTH,
